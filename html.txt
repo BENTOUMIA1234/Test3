@@ -1,0 +1,7 @@
+<htlm>
+<head>
+</head>
+<body>
+<p>bonjours, je suis badr</p>
+</body>
+</htlm>
